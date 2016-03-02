@@ -124,13 +124,6 @@
    
   </dependencies>
   
- <distributionManagement>
-    <site>
-      <id>myserver</id>
-      <url>dav:http://127.0.0.1/8087/</url>
-    </site>
- </distributionManagement>
+<newtag>aaa</newtag>
  
-
-  
 </project>
